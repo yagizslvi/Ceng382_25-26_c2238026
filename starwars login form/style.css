@@ -1,0 +1,163 @@
+/* Bu kısımı tam olarak anlamadım ama birkaç fikrim var (Renk paleti belirlediğimizi düşünüyorum). O yüzden burada Chat GPT'den yardım aldım. */
+:root {
+    --primary-color: #ff0000; /* Ana renk olarak kırmızı seçiliyor. */
+    --secondary-color: #8b0000; /* İkincil renk olarak ise koyu kırmızı seçiliyor. */
+    --neon-glow: rgba(255, 0, 0, 0.8); /* Kırmızı renginde ögelerin etrafındaki neon rengi seçiliyor. */
+    --text-color: white; /* Yazılar beyaz seçiliyor. */
+    --background-dark: rgba(0, 0, 0, 0.6); /* Karanlık arka plan seçiliyor. */
+}
+
+/* Sayfanın genel stilini burada ayarlıyoruz */
+body {
+    margin: 0; /* Sayfanın kenar boşluklarını kaldırıyor */
+    padding: 0; /* Sayfanın iç boşluklarını kaldırıyor */
+    font-family: 'Orbitron', sans-serif;
+    display: flex; /* İçerikleri hizalıyor. */
+    justify-content: center; /* Yatayda merkeze alıyor. */
+    align-items: center; /* Dikeyde merkeze alıyor. */
+    height: 100vh; /* Sayfanın tamamnı kaplıyor. */
+    overflow: hidden; /* Taşan içerikleri gizliyor. */
+    flex-direction: column; /* İçerikleri dikey sıralıyor. */
+}
+
+/* Backgroundda kullandığım canlı Kylo Ren ögesini burada ayarladım */
+#background-video {
+    position: fixed; /* Sayfada sabit durmasını sağlıyor. */
+    top: 0;
+    left: 0;
+    width: 100%; /* Tüm genişliği kaplıyor. */
+    height: 100%; /* Tüm yüksekliği kaplıyor. */
+    object-fit: cover; /* Videonun ekrana tam sığmasını sağlıyor. */
+    z-index: -1; /* Videoyu katmanlar arasında en arkaya atıyor. */
+}
+
+
+/* Holocron giriş butonu ! */
+/* Ekranın orta alt kısmında bulunan dörtgen */
+/* Şekli Chat GPT ile deneme yanama yöntemi ile oluşturdum */
+.holocron-container {
+    position: absolute; /* Sayfada tam konumluyor. */
+    bottom: 15%; /* Sayfanın alt kısmına yaklaştırıyor. */
+    text-align: center; /* İçeriği ortalıyor. */
+    z-index: 10; /* Katmanlar arasında ön planda tutuyor. */
+}
+
+.sith-holocron {
+    width: 100px; /* Şeklin genişliğini ayarlıyor. */
+    height: 100px; /*  Şeklin yüksekliğini ayarlıyor */
+    background: linear-gradient(45deg, #ff0000, #8b0000); /* Kırmızı degrade efekti veriyor. */
+    position: relative; /* Şeklin konumlandırmasını aktif ediyor. */
+    margin: auto; /* Ortaya hizalama yapıyor. */
+    transform: rotate(45deg); /* Kareyi 45 derece döndürüp elmas şekli veriyor. */
+    box-shadow: 0px 0px 50px rgba(255, 0, 0, 0.9); /* Kırmızı neon ışık efekti veriyor. */
+    animation: holocronSpin 3.2s infinite linear, holocronFloat 1.5s infinite alternate; /* Döndürme, yukarı-aşağı ve süzülme animasyonu ekliyor */
+    cursor: pointer; /* Kullanıcı şeklin üstüne geldiğinde tıklayabileceğini gösteriyor. */
+    transition: all 0.3s ease-in-out; /* Geçişleri yumuşatıyor. */
+    display: block; /* Görünür olmasını sağlıyor. */ /* !!!!! BUNU ÇOK ANLAMADIM O YÜZDEN CHAT GPTDEN YARDIM ALDIM. */
+}
+
+/* Holocron Dörtgen Hover Efekti */
+.sith-holocron:hover {
+    transform: rotate(45deg) scale(1.1); /* Üzerine geldiğinde hafif büyütüyor. */ 
+    box-shadow: 0px 0px 80px rgba(255, 0, 0, 1); /* Kırmızı ışık efekti artırıyor. */
+}
+
+/* Holocron Dörtgenin Animasyonu */
+/* Holocrona animasyon ekleyebilmek için Chat GPT'den yardım aldım fakat sanırsam düzgün bir biçimde çalışmıyor, o yüzden bu kısmı çok anlamadım. */
+@keyframes holocronSpin {
+    from {
+        transform: rotate(45deg); /* Başlangıç noktası */
+    }
+    to {
+        transform: rotate(405deg); /* 360 + 45 derece ekstra döndürüyor. */
+    }
+}
+
+/* Yavaş Yukarı-Aşağı Hareket (Float Efekti) */
+@keyframes holocronFloat {
+    from {
+        transform: translateY(0) rotate(45deg); /* İlk pozisyon. */
+    }
+    to {
+        transform: translateY(-10px) rotate(45deg); /* Hafif yukarı çıkıyor. */
+    }
+}
+
+/* Login Form Kutusu */
+.login-container {
+    display: none; /* Login Form'u başlangıçta göstermiyor. */
+    position: fixed; /* Sabit konumda tutuyor. */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.8); /* Küçük başlayıp büyüor. */
+    width: 400px; /* Genişlik. */ 
+    background: rgba(0, 0, 0, 0.7); /* Arka planı siyah yapıyor. */
+    padding: 35px; /* İç boşluk oluşturuyor. */
+    border-radius: 12px; /* Kenarları yumuşatıyor.*/
+    box-shadow: 0px 0px 40px rgba(255, 0, 0, 0.9); /* Kırmızı ışık efekti veriyor. */
+    text-align: center; /* Yazıları ortalıyor. */
+    color: white;
+    backdrop-filter: blur(10px); /* Blur efekti veriyor. */
+    opacity: 0;
+    transition: opacity 1s ease-in-out, transform 1s ease-in-out; /* Animasyon efekti yapıyor.*/
+}
+
+/* Holocron'a tıklayınca Login Formunun açılması */
+#toggle-login:checked + .login-container {
+    display: block;
+    opacity: 1; /* Saydamlığı kaldırıyor. */
+    transform: translate(-50%, -50%) scale(1); /* Normal boyuta getiriyor. */
+}
+
+/* "Join the Dark Side" metni */
+.join-text {
+    text-transform: uppercase; /* Bütün harfleri büyük yazıyor. */
+    font-size: 24px; 
+    color: var(--text-color);
+    text-shadow: 0px 0px 15px var(--neon-glow); /* Neon kırmızı ışık efekti. */
+}
+
+/* Form Alanları */
+.input-field {
+    width: 90%;
+    margin: 12px 0;
+    padding: 12px;
+    border: none;
+    border-radius: 6px;
+    font-size: 18px;
+    background: rgba(255, 255, 255, 0.15);
+    color: white;
+}
+
+/* Login Butonu */
+.login-submit {
+    width: 100%;
+    padding: 14px;
+    background: var(--primary-color);
+    border: none;
+    color: white;
+    font-size: 22px;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.login-submit:hover {
+    background: var(--secondary-color);
+    box-shadow: 0px 0px 30px var(--neon-glow); /* Neon ışık efekti veriyor. */
+}
+
+/* Hata Mesajı */
+/* Bunda ChatGPT'den yardım aldım fakat çalışmıyor. */
+.error-message {
+    display: none;
+    color: var(--primary-color);
+    font-size: 16px;
+    margin-top: 10px;
+    animation: blink 1s infinite alternate;
+}
+
+@keyframes blink {
+    from { opacity: 1; }
+    to { opacity: 0.3; }
+}
