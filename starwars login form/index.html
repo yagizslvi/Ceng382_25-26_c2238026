@@ -9,6 +9,9 @@
 </head>
 <body>
 
+<!-- burada canlı saati ekrana ekliyorum. -->
+<div id="clock"></div>
+
     <!-- Backgrounddaki Kylo Ren -->
     <video autoplay loop muted id="background-video">
         <source src="kylo ren.mp4" type="video/mp4">
@@ -28,10 +31,11 @@
             <h2 class="join-text">Joın the Dark Sıde</h2>
             <input type="text" placeholder="Sith ID" class="input-field" pattern="DARTHVADER"> <!-- Sith ID giriliyor. -->
             <input type="password" placeholder="Authentication Code" class="input-field" pattern="ORDER66"> <!-- Şifre giriliyor. -->
-            <button class="login-submit">Proceed</button> <!-- Giriş butonu.-->
+            <button class="login-submit" onclick="saveLogin()">Proceed</button> <!-- Giriş butonu.-->
             <p class="error-message">Invalid credentials. Access denied.</p> <!-- !!!! Yanlış giriş yapıldığında uyarı vermesi için yazdım ama nedense işe yaramıyor çözümünü bulamadım ! -->
         </div>
     </div>
 
+    <script src="script.js"></script> <!-- script scope, dar tutulması gerekiyor -->
 </body>
 </html>
