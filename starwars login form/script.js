@@ -1,3 +1,6 @@
+//// Bu .js'de ChatGPT'den yardım aldım.
+
+
 // Kullanıcı giriş bilgilerini saklayacak dizi
 let loginAttempts = [];
 
@@ -9,7 +12,7 @@ loginButton.addEventListener("click", saveLogin);
 
 // Giriş bilgilerini kaydeden fonksiyon
 function saveLogin() {
-    // Kullanıcıdan alınan bilgileri seç
+    // Kullanıcıdan alınan bilgileri seçiyor
     let sithID = document.querySelector(".input-field[type='text']").value;
     let password = document.querySelector(".input-field[type='password']").value;
 
@@ -53,3 +56,31 @@ document.addEventListener("keydown", function (event) {
         }
     }
 });
+
+document.addEventListener("DOMContentLoaded", function() {
+    console.log("script.js yüklendi!");
+
+    // Login butonunu seç
+    const loginButton = document.querySelector(".login-submit");
+
+    if (loginButton) {
+        loginButton.addEventListener("click", function(event) {
+            event.preventDefault(); // Sayfa yenilemeyi engelle
+
+            // Kullanıcı bilgilerini al
+            let username = document.querySelector(".input-field[type='text']").value;
+            let password = document.querySelector(".input-field[type='password']").value;
+
+            // Giriş doğrulaması
+            if (username === "admin" && password === "admin") {
+                console.log("Başarılı giriş! Table sayfasına yönlendiriliyor...");
+                window.location.href = "table.html"; // Kullanıcıyı yönlendir
+            } else {
+                alert("Hatalı Sith ID veya Authentication Code!");
+            }
+        });
+    } else {
+        console.error("Login butonu bulunamadı!");
+    }
+});
+

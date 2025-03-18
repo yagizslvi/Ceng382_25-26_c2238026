@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ab606c1-3018-471f-adad-4b7303023a98" name="Changes" comment="">
+    <list default="true" id="7ab606c1-3018-471f-adad-4b7303023a98" name="Changes" comment="Week 2, Work Lab">
+      <change afterPath="$PROJECT_DIR$/darth-vader.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jedi killer.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style_table.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -40,6 +48,9 @@
     &quot;accountId&quot;: &quot;ae734dd2-ba8e-400c-8dfa-0c6c3953ef87&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/table.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -50,6 +61,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;week2&quot;,
@@ -59,10 +71,15 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -83,8 +100,35 @@
       <workItem from="1741351129070" duration="6000" />
       <workItem from="1741351142258" duration="351000" />
       <workItem from="1741352019409" duration="4329000" />
-      <workItem from="1741366498845" duration="1729000" />
+      <workItem from="1741366498845" duration="2027000" />
+      <workItem from="1741419358068" duration="800000" />
+      <workItem from="1741428435952" duration="614000" />
+      <workItem from="1741694442738" duration="607000" />
+      <workItem from="1741766309214" duration="4535000" />
+      <workItem from="1741777475350" duration="4262000" />
+      <workItem from="1741955091769" duration="5268000" />
+      <workItem from="1742051285227" duration="5064000" />
+      <workItem from="1742124756746" duration="91000" />
+      <workItem from="1742139388413" duration="1864000" />
+      <workItem from="1742303555342" duration="616000" />
     </task>
+    <task id="LOCAL-00001" summary="Week 2, Work Lab">
+      <option name="closed" value="true" />
+      <created>1741371829022</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741371829022</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Week 2, Work Lab">
+      <option name="closed" value="true" />
+      <created>1741371872342</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741371872342</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,5 +144,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Week 2, Work Lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 2, Work Lab" />
   </component>
 </project>
