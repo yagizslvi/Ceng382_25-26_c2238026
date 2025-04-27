@@ -1,0 +1,98 @@
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/bin/Debug/net9.0/appsettings.Development.json
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/bin/Debug/net9.0/appsettings.json
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/bin/Debug/net9.0/labweek5 form project.staticwebassets.runtime.json
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/bin/Debug/net9.0/labweek5 form project.staticwebassets.endpoints.json
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/bin/Debug/net9.0/labweek5 form project
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/bin/Debug/net9.0/labweek5 form project.deps.json
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/bin/Debug/net9.0/labweek5 form project.runtimeconfig.json
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/bin/Debug/net9.0/labweek5 form project.dll
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/bin/Debug/net9.0/labweek5 form project.pdb
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/labweek5 form project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/labweek5 form project.AssemblyInfoInputs.cache
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/labweek5 form project.AssemblyInfo.cs
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/labweek5 form project.csproj.CoreCompileInputs.cache
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/labweek5 form project.MvcApplicationPartsAssemblyInfo.cache
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/labweek5 form project.RazorAssemblyInfo.cache
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/labweek5 form project.RazorAssemblyInfo.cs
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/labweek5 form project.sourcelink.json
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/scopedcss/bundle/labweek5 form project.styles.css
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/scopedcss/projectbundle/labweek5 form project.bundle.scp.css
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/uvr6wmm52d-b9sayid5wm.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/o1sfr962pu-61n19gt1b8.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/8w0t5fhh06-xtxxf3hu2r.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/t1uw314afc-bqjiyaj88i.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/t8tj17dhcg-c2jlpeoesf.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/xu7c5tu1wm-erw9l3u2r3.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/amcrl44kiq-aexeepp0ev.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/qcfaqkfbsw-d7shbmvgxk.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/4s87w4576o-ausgxo2sd3.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/p283ajlrw6-k8d9w2qqmf.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/wfz83etu9a-cosvhxvwiu.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/f9yy2m279h-ub07r2b239.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/v2bl6v0anu-fvhpjtyr6v.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/bkr8u32t22-b7pk76d08c.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/uss48g3upm-fsbi9cje9m.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/opdks79y45-rzd6atqjts.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/63hmi3631k-ee0r1s7dh0.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/padtn0buuz-dxx9fxp4il.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/uoxlmh4wzz-jd9uben2k1.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/hhnd9le9n3-khv3u5hwcm.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/1bm96odago-r4e9w2rdcm.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/5nefsesigj-lcd1t2u6c8.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/i6izcrnk1x-c2oey78nd0.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/1cwe6mpbf7-tdbxkamptv.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/76nixntj8r-j5mq2jizvt.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/a9icyxesb2-06098lyss8.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/lik8aj6ye4-nvvlpmu67g.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/0lolrtc1nk-s35ty4nyc5.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/ey1j1fxwge-pj5nd1wqec.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/tfli99h00n-46ein0sx1k.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/dn39xak97z-v0zj4ognzu.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/l29t54vk6y-37tfw0ft22.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/y0j37k0who-hrwsygsryq.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/ehuq6nropk-pk9g2wxc8p.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/p3yrb3ifw7-ft3s53vfgj.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/aobevce83k-6cfz1n2cew.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/sloewc8lq7-6pdc2jztkx.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/4e4rck22jt-493y06b0oq.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/ac8xfbwwh6-iovd86k7lj.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/tbna25elba-vr1egmr9el.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/6a0op1psk7-kbrnm935zg.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/4g4bo8281m-jj8uyg4cgr.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/k5n8yx5f6p-y7v9cxd14o.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/kst5n4m6rw-notf2xhcfb.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/ug7cke2kq7-h1s4sie4z3.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/lb5sdceqpg-63fj8s7r0e.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/verg1s2bop-0j3bgjxly4.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/pqfcvlcuu7-47otxtyo56.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/ha8x9qrmsd-4v8eqarkd7.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/1oliacs8c8-356vix0kms.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/0q623gkrnc-83jwlth58m.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/4mbpu027pj-mrlpezrjn3.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/ifqj0vzbiz-lzl9nlhx6b.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/ffjqv27sat-ag7o75518u.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/4nb67apl0d-x0q3zqp4vz.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/fdeb7621fe-0i3buxo5is.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/vtr4m4dq38-o1o13a6vjx.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/kwto3tibki-ttgo8qnofa.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/0jpx7r841k-2z0ns9nrw6.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/wc7hxdefm1-muycvpuwrr.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/3xbcjevdcc-87fc7y1x7t.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/ry0i5pnkkb-mlv21k5csn.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/h39rq2w845-bd4nfnspas.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/compressed/4c6n225kks-bd4nfnspas.gz
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/staticwebassets.build.json
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/staticwebassets.development.json
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/staticwebassets/msbuild.labweek5 form project.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/staticwebassets/msbuild.labweek5 form project.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/staticwebassets/msbuild.build.labweek5 form project.props
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.labweek5 form project.props
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.labweek5 form project.props
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/labweek5 form project.dll
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/refint/labweek5 form project.dll
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/labweek5 form project.pdb
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/labweek5 form project.genruntimeconfig.cache
+/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/ref/labweek5 form project.dll

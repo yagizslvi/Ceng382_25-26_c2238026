@@ -1,0 +1,105 @@
+﻿@page
+@model labweek5_form_project.Pages.IndexModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Class Management</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-dTl4XvN1ksjz8zWbdzM1ZBRSjP0dzjVxZ8pB+eVgUdRkChcWxjr7S5eGqop0H92zEYbYxF6sMJ7Yo+dRCaZ7tw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+</head>
+<body class="p-4">
+
+<div class="container mt-4">
+    <div class="row">
+        <!-- Form (Left Side) -->
+        <div class="col-md-4">
+            <h4>@(Model.IsEditing ? "Edit Class" : "Add New Class")</h4>
+            <form method="post" asp-page-handler="@(Model.IsEditing ? "Update" : "Add")">
+                @if (Model.IsEditing)
+                {
+                    <input type="hidden" asp-for="NewClass.Id" />
+                }
+                <div class="mb-3">
+                    <label class="form-label">Class Name</label>
+                    <input class="form-control" asp-for="NewClass.ClassName" />
+                    <span asp-validation-for="NewClass.ClassName" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Student Count</label>
+                    <input type="number" class="form-control" asp-for="NewClass.StudentCount" />
+                    <span asp-validation-for="NewClass.StudentCount" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Description</label>
+                    <textarea class="form-control" asp-for="NewClass.Description"></textarea>
+                    <span asp-validation-for="NewClass.Description" class="text-danger"></span>
+                </div>
+
+                <div class="d-flex gap-2">
+                    <button type="submit" class="btn btn-primary">
+                        @(Model.IsEditing ? "Update Class" : "Add Class")
+                    </button>
+                    @if (Model.IsEditing)
+                    {
+                        <a asp-page="Index" class="btn btn-secondary">Cancel</a>
+                    }
+                </div>
+            </form>
+        </div>
+
+        <!-- Table (Right Side) -->
+        <div class="col-md-8">
+            <table class="table table-bordered mt-4">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Class Name</th>
+                        <th>Student Count</th>
+                        <th>Description</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in labweek5_form_project.Pages.IndexModel.ClassList)
+                    {
+                        <tr>
+                            <td>@item.Id</td>
+                            <td>@item.ClassName</td>
+                            <td>@item.StudentCount</td>
+                            <td>@item.Description</td>
+                            <td>
+                                <div class="btn-group" role="group">
+                                    <form method="post" asp-page-handler="Edit" class="me-1">
+                                        <input type="hidden" name="id" value="@item.Id" />
+                                        <button type="submit" class="btn btn-primary btn-sm">
+                                            <i class="bi bi-pencil"></i>
+                                        </button>
+                                    </form>
+                                    <form method="post" asp-page-handler="Delete">
+                                        <input type="hidden" name="id" value="@item.Id" />
+                                        <button type="submit" class="btn btn-danger btn-sm">
+                                            <i class="bi bi-trash"></i>
+                                        </button>
+                                    </form>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+</body>
+</html>
