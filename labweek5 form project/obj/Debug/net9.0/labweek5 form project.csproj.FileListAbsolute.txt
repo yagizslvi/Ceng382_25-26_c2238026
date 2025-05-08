@@ -96,3 +96,101 @@
 /Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/labweek5 form project.pdb
 /Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/labweek5 form project.genruntimeconfig.cache
 /Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/Debug/net9.0/ref/labweek5 form project.dll
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\bin\Debug\net9.0\appsettings.json
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\bin\Debug\net9.0\labweek5 form project.staticwebassets.runtime.json
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\bin\Debug\net9.0\labweek5 form project.staticwebassets.endpoints.json
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\bin\Debug\net9.0\labweek5 form project.exe
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\bin\Debug\net9.0\labweek5 form project.deps.json
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\bin\Debug\net9.0\labweek5 form project.runtimeconfig.json
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\bin\Debug\net9.0\labweek5 form project.dll
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\bin\Debug\net9.0\labweek5 form project.pdb
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\labweek5 form project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\labweek5 form project.AssemblyInfoInputs.cache
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\labweek5 form project.AssemblyInfo.cs
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\labweek5 form project.csproj.CoreCompileInputs.cache
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\labweek5 form project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\labweek5 form project.RazorAssemblyInfo.cache
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\labweek5 form project.RazorAssemblyInfo.cs
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\labweek5 form project.sourcelink.json
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\scopedcss\bundle\labweek5 form project.styles.css
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\scopedcss\projectbundle\labweek5 form project.bundle.scp.css
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\uvr6wmm52d-b9sayid5wm.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\o1sfr962pu-61n19gt1b8.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\8w0t5fhh06-xtxxf3hu2r.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\t1uw314afc-t1cqhe9u97.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\t8tj17dhcg-c2jlpeoesf.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\xu7c5tu1wm-sejl45xvog.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\amcrl44kiq-aexeepp0ev.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\qcfaqkfbsw-xvp3kq03qx.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\4s87w4576o-ausgxo2sd3.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\p283ajlrw6-22vffe00uq.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\wfz83etu9a-cosvhxvwiu.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\f9yy2m279h-qesaa3a1fm.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\v2bl6v0anu-fvhpjtyr6v.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\bkr8u32t22-tmc1g35s3z.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\uss48g3upm-fsbi9cje9m.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\opdks79y45-rxsg74s51o.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\63hmi3631k-ee0r1s7dh0.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\padtn0buuz-q9ht133ko3.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\uoxlmh4wzz-jd9uben2k1.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\hhnd9le9n3-gye83jo8yx.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\1bm96odago-r4e9w2rdcm.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\5nefsesigj-wl58j5mj3v.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\i6izcrnk1x-c2oey78nd0.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\1cwe6mpbf7-d4r6k3f320.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\76nixntj8r-j5mq2jizvt.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\a9icyxesb2-keugtjm085.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\lik8aj6ye4-nvvlpmu67g.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\0lolrtc1nk-zub09dkrxp.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\ey1j1fxwge-pj5nd1wqec.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\tfli99h00n-43atpzeawx.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\dn39xak97z-v0zj4ognzu.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\l29t54vk6y-ynyaa8k90p.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\y0j37k0who-hrwsygsryq.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\ehuq6nropk-c63t5i9ira.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\p3yrb3ifw7-ft3s53vfgj.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\aobevce83k-4094rpi4f9.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\sloewc8lq7-6pdc2jztkx.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\4e4rck22jt-hd3gran6i8.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\ac8xfbwwh6-iovd86k7lj.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\tbna25elba-ltid2c489k.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\6a0op1psk7-kbrnm935zg.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\4g4bo8281m-8vyfqsqgz1.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\k5n8yx5f6p-y7v9cxd14o.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\kst5n4m6rw-u9q1upor1n.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\ug7cke2kq7-h1s4sie4z3.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\lb5sdceqpg-4d85u1mtcx.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\verg1s2bop-0j3bgjxly4.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\pqfcvlcuu7-03hjc8e09r.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\ha8x9qrmsd-48y08845bh.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\1oliacs8c8-356vix0kms.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\0q623gkrnc-83jwlth58m.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\4mbpu027pj-mrlpezrjn3.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\ifqj0vzbiz-worgj0nhwm.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\ffjqv27sat-gk0pw8i4co.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\4nb67apl0d-x0q3zqp4vz.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\fdeb7621fe-d6nrnj6jjx.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\vtr4m4dq38-m9qm4tazc0.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\kwto3tibki-ttgo8qnofa.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\0jpx7r841k-jjsuc0puko.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\wc7hxdefm1-9vr69e8ynj.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\3xbcjevdcc-87fc7y1x7t.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\ry0i5pnkkb-mlv21k5csn.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\h39rq2w845-8zxhodh3b6.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\4c6n225kks-8zxhodh3b6.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\staticwebassets\msbuild.labweek5 form project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\staticwebassets\msbuild.labweek5 form project.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\staticwebassets\msbuild.build.labweek5 form project.props
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.labweek5 form project.props
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.labweek5 form project.props
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\labweek5 form project.dll
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\refint\labweek5 form project.dll
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\labweek5 form project.pdb
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\labweek5 form project.genruntimeconfig.cache
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\ref\labweek5 form project.dll

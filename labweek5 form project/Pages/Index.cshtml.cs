@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using labweek5_form_project.Helpers;
 using labweek5_form_project.Models;
 using System;
 using System.Collections.Generic;
@@ -232,5 +233,37 @@ namespace labweek5_form_project.Pages
             NewClass = new ClassInformationModel();
             return RedirectToPage();
         }
+
+
+        public IActionResult OnPostExportJson(bool isFiltered, List<string> selectedColumns)
+        {
+            List<ClassInformationTable> exportData;
+
+            if (isFiltered)
+            {
+                // Yalnızca filtrelenmiş veriyi dışa aktar
+                FilterAndPaginateResults(); // ClassTableView doldurulur
+                exportData = ClassTableView;
+            }
+            else
+            {
+                // Tüm veriyi dışa aktar
+                exportData = ClassList.Select(item => new ClassInformationTable
+                {
+                    Id = item.Id,
+                    ClassName = item.ClassName,
+                    StudentCount = item.StudentCount,
+                    Description = item.Description
+                }).ToList();
+            }
+
+            // JSON formatında string elde et
+            var jsonString = Helpers.Utils.Instance.ToJson(exportData, selectedColumns);
+
+            // JSON dosyasını kullanıcıya döndür
+            var byteArray = System.Text.Encoding.UTF8.GetBytes(jsonString);
+            return File(byteArray, "application/json", "export.json");
+        }
+
     }
 }

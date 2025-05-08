@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/ardaselvi/.nuget/packages/": {}
+    "C:\\Users\\adem\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/labweek5 form project.csproj",
+      "projectUniqueName": "C:\\Users\\adem\\OneDrive\\Masaüstü\\CENG-382 LABWORK\\Ceng382_25-26_c2238026\\labweek5 form project\\labweek5 form project.csproj",
       "projectName": "labweek5 form project",
-      "projectPath": "/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/labweek5 form project.csproj",
-      "packagesPath": "/Users/ardaselvi/.nuget/packages/",
-      "outputPath": "/Users/ardaselvi/Desktop/CENG-382 Labworks/Ceng382_25-26_c2238026/labweek5 form project/obj/",
+      "projectPath": "C:\\Users\\adem\\OneDrive\\Masaüstü\\CENG-382 LABWORK\\Ceng382_25-26_c2238026\\labweek5 form project\\labweek5 form project.csproj",
+      "packagesPath": "C:\\Users\\adem\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\adem\\OneDrive\\Masaüstü\\CENG-382 LABWORK\\Ceng382_25-26_c2238026\\labweek5 form project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ardaselvi/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\adem\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
