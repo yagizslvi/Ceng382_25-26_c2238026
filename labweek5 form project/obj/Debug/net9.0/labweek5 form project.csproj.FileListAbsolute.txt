@@ -117,6 +117,7 @@ C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labwee
 C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\scopedcss\bundle\labweek5 form project.styles.css
 C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\scopedcss\projectbundle\labweek5 form project.bundle.scp.css
 C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\uvr6wmm52d-b9sayid5wm.gz
+C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\mheawvht4h-kpwtl424b6.gz
 C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\o1sfr962pu-61n19gt1b8.gz
 C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\8w0t5fhh06-xtxxf3hu2r.gz
 C:\Users\adem\OneDrive\Masaüstü\CENG-382 LABWORK\Ceng382_25-26_c2238026\labweek5 form project\obj\Debug\net9.0\compressed\t1uw314afc-t1cqhe9u97.gz

@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\adem\\OneDrive\\Masaüstü\\CENG-382 LABWORK\\Ceng382_25-26_c2238026\\labweek5 form project\\wwwroot\\data\\users.json",
+      "PackagePath": "staticwebassets\\data\\users.json"
+    },
+    {
       "Id": "C:\\Users\\adem\\OneDrive\\Masaüstü\\CENG-382 LABWORK\\Ceng382_25-26_c2238026\\labweek5 form project\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },

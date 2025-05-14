@@ -86,15 +86,35 @@ namespace labweek5_form_project.Pages
             return ClassList.Max(x => x.Id) + 1;
         }
 
-        public void OnGet()
+        public IActionResult OnGet()
         {
-            // Sayfa yüklendiğinde yeni bir sınıf oluştur
+            var usernameCookie = Request.Cookies["username"];
+            var tokenCookie = Request.Cookies["token"];
+            var sessionIdCookie = Request.Cookies["session_id"];
+
+            var usernameSession = HttpContext.Session.GetString("username");
+            var tokenSession = HttpContext.Session.GetString("token");
+            var sessionIdSession = HttpContext.Session.GetString("session_id");
+
+            bool isAuthenticated =
+                !string.IsNullOrEmpty(usernameCookie) &&
+                !string.IsNullOrEmpty(tokenCookie) &&
+                !string.IsNullOrEmpty(sessionIdCookie) &&
+                usernameCookie == usernameSession &&
+                tokenCookie == tokenSession &&
+                sessionIdCookie == sessionIdSession;
+
+            if (!isAuthenticated)
+            {
+                return Redirect("/Login"); // burada return gerekli!
+            }
+
             IsEditing = false;
             NewClass = new ClassInformationModel();
-
-            // Sayfalama ve filtreleme işlemleri
             FilterAndPaginateResults();
+            return Page(); // sayfanın devamı burada biter
         }
+
 
         private void FilterAndPaginateResults()
         {
